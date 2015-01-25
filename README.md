@@ -14,7 +14,7 @@ Backup your original `.tmux.conf` and `.tmux` settings.
     2. Download a powerline font, and put it in your `~/.fonts` to install it.
     3. Set your terminal to use it.
   * If you don't want to use powerline, please ``git checkout nopowerline`` in your `~/.tmux` directory (the repository).
-4. Open tmux and wait for the plugins to install.
+4. Open tmux and press ``prefix`` (usually ``ctrl-b``) then ``I`` to install plugins.
 5. Use it and report any issue or suggestions.
 
 
