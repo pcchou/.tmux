@@ -22,5 +22,5 @@ Plugin List
 ---
 * [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible)
 * [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)
-* [Tmux Plugin Manager](https://github.com/tmux-plugins/tmux-resurrect)
+* [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 * [tmux-yank](https://github.com/tmux-plugins/tmux-yank)
