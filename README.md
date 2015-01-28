@@ -20,6 +20,7 @@ Backup your original `.tmux.conf` and `.tmux` settings.
 
 Plugin List
 ---
+
 * [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible)
 * [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)
 * [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
