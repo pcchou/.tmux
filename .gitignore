@@ -1,3 +1,4 @@
 plugins/*
 resurrect/
+resurrect
 !plugins/tpm
